@@ -1,0 +1,16 @@
+C:\Users\matthew.smith\Dropbox\Programming\Small_Apps\C#\RemoveSpecialChars\RemoveSpecialChars\bin\Release\RemoveSpecialChars.exe
+C:\Users\matthew.smith\Dropbox\Programming\Small_Apps\C#\RemoveSpecialChars\RemoveSpecialChars\bin\Release\RemoveSpecialChars.pdb
+C:\Users\matthew.smith\Dropbox\Programming\Small_Apps\C#\RemoveSpecialChars\RemoveSpecialChars\obj\x86\Release\RemoveSpecialChars.Form1.resources
+C:\Users\matthew.smith\Dropbox\Programming\Small_Apps\C#\RemoveSpecialChars\RemoveSpecialChars\obj\x86\Release\RemoveSpecialChars.Properties.Resources.resources
+C:\Users\matthew.smith\Dropbox\Programming\Small_Apps\C#\RemoveSpecialChars\RemoveSpecialChars\obj\x86\Release\RemoveSpecialChars.csproj.GenerateResource.Cache
+C:\Users\matthew.smith\Dropbox\Programming\Small_Apps\C#\RemoveSpecialChars\RemoveSpecialChars\obj\x86\Release\RemoveSpecialChars.exe
+C:\Users\matthew.smith\Dropbox\Programming\Small_Apps\C#\RemoveSpecialChars\RemoveSpecialChars\obj\x86\Release\RemoveSpecialChars.pdb
+C:\Users\matthew.smith\Dropbox\Programming\Small_Apps\C#\RemoveSpecialChars\RemoveSpecialChars\obj\x86\Release\RemoveSpecialChars.csprojResolveAssemblyReference.cache
+C:\Users\mattb_000\Dropbox\Programming\Small_Apps\C#\RemoveSpecialChars\RemoveSpecialChars\obj\x86\Release\RemoveSpecialChars.exe
+C:\Users\mattb_000\Dropbox\Programming\Small_Apps\C#\RemoveSpecialChars\RemoveSpecialChars\obj\x86\Release\RemoveSpecialChars.pdb
+C:\Users\mattb_000\Dropbox\Programming\Small_Apps\C#\RemoveSpecialChars\RemoveSpecialChars\bin\Release\RemoveSpecialChars.exe
+C:\Users\mattb_000\Dropbox\Programming\Small_Apps\C#\RemoveSpecialChars\RemoveSpecialChars\bin\Release\RemoveSpecialChars.pdb
+C:\Users\mattb_000\Dropbox\Programming\Small_Apps\C#\RemoveSpecialChars\RemoveSpecialChars\obj\x86\Release\RemoveSpecialChars.csprojResolveAssemblyReference.cache
+C:\Users\mattb_000\Dropbox\Programming\Small_Apps\C#\RemoveSpecialChars\RemoveSpecialChars\obj\x86\Release\RemoveSpecialChars.Form1.resources
+C:\Users\mattb_000\Dropbox\Programming\Small_Apps\C#\RemoveSpecialChars\RemoveSpecialChars\obj\x86\Release\RemoveSpecialChars.Properties.Resources.resources
+C:\Users\mattb_000\Dropbox\Programming\Small_Apps\C#\RemoveSpecialChars\RemoveSpecialChars\obj\x86\Release\RemoveSpecialChars.csproj.GenerateResource.Cache

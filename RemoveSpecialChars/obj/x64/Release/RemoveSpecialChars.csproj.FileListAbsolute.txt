@@ -1,0 +1,8 @@
+C:\Users\matthew.smith\Dropbox\Programming\Small_Apps\C#\RemoveSpecialChars\RemoveSpecialChars\bin\x64\Release\RemoveSpecialChars.exe
+C:\Users\matthew.smith\Dropbox\Programming\Small_Apps\C#\RemoveSpecialChars\RemoveSpecialChars\bin\x64\Release\RemoveSpecialChars.pdb
+C:\Users\matthew.smith\Dropbox\Programming\Small_Apps\C#\RemoveSpecialChars\RemoveSpecialChars\obj\x64\Release\RemoveSpecialChars.csprojResolveAssemblyReference.cache
+C:\Users\matthew.smith\Dropbox\Programming\Small_Apps\C#\RemoveSpecialChars\RemoveSpecialChars\obj\x64\Release\RemoveSpecialChars.Form1.resources
+C:\Users\matthew.smith\Dropbox\Programming\Small_Apps\C#\RemoveSpecialChars\RemoveSpecialChars\obj\x64\Release\RemoveSpecialChars.Properties.Resources.resources
+C:\Users\matthew.smith\Dropbox\Programming\Small_Apps\C#\RemoveSpecialChars\RemoveSpecialChars\obj\x64\Release\RemoveSpecialChars.csproj.GenerateResource.Cache
+C:\Users\matthew.smith\Dropbox\Programming\Small_Apps\C#\RemoveSpecialChars\RemoveSpecialChars\obj\x64\Release\RemoveSpecialChars.exe
+C:\Users\matthew.smith\Dropbox\Programming\Small_Apps\C#\RemoveSpecialChars\RemoveSpecialChars\obj\x64\Release\RemoveSpecialChars.pdb
